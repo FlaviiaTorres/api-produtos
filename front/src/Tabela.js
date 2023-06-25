@@ -1,7 +1,7 @@
-function tabela(){
+function Tabela(){
     return(
         <h1>Tabela</h1>
     )
 }
 
-export default tabela;
+export default Tabela;
